@@ -1,0 +1,6 @@
+# Ignore Mac OS X filesystem
+.DS_Store
+
+# Ignore CLion files
+.idea
+.idea/*
