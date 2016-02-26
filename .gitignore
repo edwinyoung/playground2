@@ -4,3 +4,8 @@
 # Ignore CLion files
 .idea
 .idea/*
+
+# Ignore C++ generated files
+*.o
+*.a
+*.out
